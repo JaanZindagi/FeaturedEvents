@@ -40,7 +40,7 @@ Accessible Design: Semantic HTML and keyboard navigability considerations.
 Sticky Navbar: Always visible navigation for easier site browsing.
 
 # How to Run the Project
-1.Clone the repository: git clone https://github.com/JaanZindagi/EventFeatured.git 
+1.Clone the repository: https://github.com/JaanZindagi/FeaturedEvents
 
 2.cd FEATURED-EVENTS
 
