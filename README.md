@@ -41,6 +41,9 @@ Sticky Navbar: Always visible navigation for easier site browsing.
 
 # How to Run the Project
 1.Clone the repository: git clone https://github.com/JaanZindagi/EventFeatured.git 
+
 2.cd FEATURED-EVENTS
+
 3.Install dependencies: npm install 
+
 4.Run: npm run dev
