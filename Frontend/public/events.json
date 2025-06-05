@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "FAST TechTalks: AI & Future",
+    "datetime": "2025-07-02T11:00:00",
+    "location": "FAST University Islamabad",
+    "description": "An expert panel discusses the future of Artificial Intelligence and Machine Learning.",
+    "image": "/assets/TechTalk.jpg"
+  },
+  {
+    "id": 2,
+    "name": "HackFAST 2025",
+    "datetime": "2025-09-01T09:00:00",
+    "location": "FAST Islamabad - Auditorium",
+    "description": "24-hour hackathon inviting students from across Pakistan to solve real-world challenges.",
+    "image": "/assets/Hackathon.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "FAST Career Fair",
+    "datetime": "2025-10-12T10:00:00",
+    "location": "FAST Islamabad - Main Lawn",
+    "description": "Meet top recruiters, attend workshops, and explore job and internship opportunities.",
+    "image": "/assets/Career_fair.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "DevConnect: React & Beyond",
+    "datetime": "2025-08-20T13:00:00",
+    "location": "FAST Islamabad - Seminar Hall",
+    "description": "Hands-on coding session on ReactJS, Hooks, and building scalable SPAs.",
+    "image": "/assets/React_Session.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "FAST Debating Championship",
+    "datetime": "2025-07-20T15:00:00",
+    "location": "FAST Islamabad - CS Lawn",
+    "description": "Top universities debate on national and international topics. Watch and vote for your favorites.",
+    "image": "/assets/debating.jpeg"
+  }
+]
